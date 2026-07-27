@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 
 BOT_TOKEN = "7953489963:AAGkiKWjqIT4SlPfS_1EHxLzI6ZabgfuI4k"
 ADMIN_IDS = [8603893462]
-GROUP_USERNAME = "@Staysafewithus_escrower"
+GROUP_USERNAME = "@CertifiedDeal"
 POWERED_BY = "@cyber_amit"
 BOT_NAME = "CYBER ESCROW BOT"
 
